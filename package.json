@@ -36,7 +36,7 @@
     "webpack-dev-server": "^3.1.8"
   },
   "dependencies": {
-    "three": "^0.96.0"
+    "three": "^0.125.0"
   },
   "types": "./lib/azusa.d.ts",
   "typings": "./lib/azusa.d.ts",
